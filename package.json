@@ -1,0 +1,23 @@
+{
+  "name": "cardgame",
+  "version": "1.0.0",
+  "description": "Easy Cardgame",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "novaprospectCAU",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "globals": "^15.3.0",
+    "prettier-eslint": "^16.3.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.10.0"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1"
+  }
+}
